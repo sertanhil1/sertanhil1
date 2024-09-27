@@ -1,14 +1,14 @@
 name: Latest Blog
 on:
   schedule:
-    # Her saat çalışacak şekilde ayarlanır
-    - cron: '0 * * * *'
+    - cron: '0 * * * *' # Her saat çalıştırmak için
 jobs:
   update-readme-with-blog:
-    name: Medium Blog
+    name: Latest blog from Medium
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: "MEDIUM-BLOG-LIST"
           feed_list: 'https://medium.com/feed/@setoh1l'
