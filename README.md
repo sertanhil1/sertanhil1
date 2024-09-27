@@ -9,9 +9,16 @@
 
 - 📫 How to reach me **sertanhil99gmail.com**
 
+
+- ## Latest Blogs
+- [Array Methods](https://medium.com/@setoh1l/array-methods-1fb9ed7bacd2)
+- [Logical Operators](https://medium.com/@setoh1l/javascript-logical-operators-37cda5614067)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sertan hil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sertan hil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sertan-hil-669880188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sertan hil" height="30" width="40" /></a>
 <a href="https://medium.com/@setoh1l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@setoh1l" height="30" width="40" /></a>
 </p>
 
