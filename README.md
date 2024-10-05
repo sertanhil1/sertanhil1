@@ -3,13 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sertanhil1" alt="sertanhil1" /></a> </p>
 
-- 🔭 I’m currently working on **Gemini-Clone**
-
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **sertanhil99gmail.com**
-
-
 - ## Latest Blogs
 - [Array Methods](https://medium.com/@setoh1l/array-methods-1fb9ed7bacd2)
 - [Logical Operators](https://medium.com/@setoh1l/javascript-logical-operators-37cda5614067)
