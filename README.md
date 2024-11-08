@@ -3,6 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sertanhil1" alt="sertanhil1" /></a> </p>
 
+# E-Commerce Website Project
+
+I am actively working on an **e-commerce website** project. The goal is to create a platform where users can browse products, add them to their cart, and complete their purchases. Currently, I am in the development phase.
+
+## Features
 - ## Latest Blogs
 - [Array Methods](https://medium.com/@setoh1l/array-methods-1fb9ed7bacd2)
 - [Logical Operators](https://medium.com/@setoh1l/javascript-logical-operators-37cda5614067)
