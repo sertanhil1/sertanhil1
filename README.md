@@ -7,7 +7,7 @@
 
 I am actively working on an **e-commerce website** project. The goal is to create a platform where users can browse products, add them to their cart, and complete their purchases. Currently, I am in the development phase.
 
-## Features
+
 - ## Latest Blogs
 - [Array Methods](https://medium.com/@setoh1l/array-methods-1fb9ed7bacd2)
 - [Logical Operators](https://medium.com/@setoh1l/javascript-logical-operators-37cda5614067)
